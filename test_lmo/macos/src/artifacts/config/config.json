@@ -1,0 +1,9 @@
+{
+    "name": "scythe.lmo",
+    "id": "c97a9e30-3961-11ec-80c2-7778778f744a",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "LMO",
+    "description": "A SCYTHE module port of the Let Me Out (LMO) of your .net Egress testing and verification frame work. Project available at: https://github.com/mubix/lmo",
+    "icon_filename": "default_module_icon.png",
+    "type_flags": "CATEGORY_WORKER"
+}

@@ -1,0 +1,1 @@
+{"operating_system":"macos","runtime":"python3","cpu_architecture":["x64"],"module_type":"capability","company_name":"scythe","module_name":"health_inspector","uuid":"4e5f74d0-4705-11ec-abd0-e12370ec4fc6","module_display_name":"Health Inspector","module_description":"A port of  its-a-feature HealthInspector for host recon on a macOs","module_icon_filename":"stethoscope.png"}

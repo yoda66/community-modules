@@ -1,0 +1,9 @@
+{
+    "name": "scythe.health_inspector",
+    "id": "4e5f74d0-4705-11ec-abd0-e12370ec4fc6",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "Health Inspector",
+    "description": "A port of  its-a-feature HealthInspector for host recon on a macOs",
+    "icon_filename": "stethoscope.png",
+    "type_flags": "CATEGORY_WORKER"
+}

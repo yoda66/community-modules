@@ -1,0 +1,1 @@
+{"operating_system":"macos","runtime":"native","cpu_architecture":["x64"],"module_type":"capability","company_name":"scythe","module_name":"persist","uuid":"7de51670-850c-11ec-8b81-ff73e7ff5af6","module_display_name":"persist","module_description":"A Persistence module for macOS using plist in launch agents. ","module_icon_filename":"icons8-ibeacon-77.png"}

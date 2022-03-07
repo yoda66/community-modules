@@ -1,0 +1,2 @@
+run.bundle:
+	$(CC) src/persist.c -o bundle -bundle -o bin/macos/x64/persist.bundle

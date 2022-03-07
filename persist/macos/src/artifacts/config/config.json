@@ -1,0 +1,8 @@
+{
+    "name": "scythe.persist",
+    "id": "7de51670-850c-11ec-8b81-ff73e7ff5af6",
+    "display_name": "persist",
+    "description": "A Persistence module for macOS using plist in launch agents. ",
+    "icon_filename": "icons8-ibeacon-77.png",
+    "type_flags": "CATEGORY_WORKER"
+}

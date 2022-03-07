@@ -1,0 +1,9 @@
+{
+    "name": "scythe.orchard",
+    "id": "8baea9b0-47c2-11ec-91ab-af76d7f49ebf",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "Orchard",
+    "description": "A  port of its-a-feature Orchard for Active Directory enumeration.",
+    "icon_filename": "domain-admin.png",
+    "type_flags": "CATEGORY_WORKER"
+}

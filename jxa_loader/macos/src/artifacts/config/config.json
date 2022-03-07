@@ -1,0 +1,9 @@
+{
+    "name": "scythe.jxa_loader",
+    "id": "03107e60-398c-11ec-ba0e-5d31a0f9523e",
+    "runtime_id": "DD833957-4D55-4A50-9EF3-9752EE95708F",
+    "display_name": "JXA Loader",
+    "description": "Load and Run JXA scripts on macOS",
+    "icon_filename": "loading-sign.png",
+    "type_flags": "CATEGORY_WORKER"
+}

@@ -9,29 +9,36 @@ assignees: ''
 
 ## Module Name
 
-> Module Description
+> Allow agent to ... 
 
 ## Features
-- Performs X
-- Does Y 
-- Interacts with Z
+- Allow X 
+- Perform Z
 
 ## Module Type
-- [] Capability
-- [] Communications
+- [ ] Communications
+- [ ] Capability
 
 ## Target Platforms
 - Linux
-    - Version/Build 
 - macOS
-    - Version/Build
 - Windows
-    - Version/Build
+ 
+## MITRE ATT&CK
+
+> Adversaries may use this to conduct...
+>
+>-- <cite>[MITRE TXXXX](https://attack.mitre.org/techniques/TXXXX/)
+
+#### Technique Tags
+- [TXXXX](https://attack.mitre.org/techniques/TXXXX)
+   -  [TXXXX.XXX](https://attack.mitre.org/techniques/TXXXX/XXX/)
+
+
+#### Threat Actors Using This
+
+|  Name  | 
+|----------|
+| [APT X](https://attack.mitre.org/groups/G0XXX)  | 
 
 ## Supporting Documents
-- [Google](www.google.com)
- 
-## Acceptance Criteria
-- [ ] Unit Tests
-- [ ] Exception Handling
-- [ ] Graceful Failure

@@ -1,0 +1,1 @@
+{"operating_system":"linux","runtime":"native","cpu_architecture":["x86","x64"],"module_type":"capability","company_name":"scythe","module_name":"ubash","uuid":"5bab5be0-a182-11ec-992e-6fb98c417f58","module_display_name":"ubash","module_description":"Run a bash script in /proc ","module_icon_filename":"bash.png"}

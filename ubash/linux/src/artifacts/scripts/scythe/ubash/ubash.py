@@ -26,8 +26,8 @@ def create_parser(db, os="windows"):
         def error(self, message):
             raise ValueError(message)
 
-    epilog =  '  scythe.ubash --filename "VFS:/users/LOCAL/user1/lin-enum.sh"\n'
-    parser = ArgumentParser(prog="ubash", description="Run bash and shell scripts from /proc",
+    epilog =  '  scythe.ubash --filename "VFS:/users/LOCAL/user1/enum.sh" or to run commands directly from the shell --filename "#!/bin/bash\\n whoami\\n ls -lah\\n w"\n'
+    parser = ArgumentParser(prog="ubash", description="Run bash and sh scripts from /proc. All scripts must begin with either #!/bin/bash or #!/bin/sh\n",
                             epilog=epilog)
     parser.add_argument("--filename", help="Script to run on target system", required=True)
     return parser

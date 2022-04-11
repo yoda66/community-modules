@@ -1,0 +1,8 @@
+{
+    "name": "scythe.ubash",
+    "id": "5bab5be0-a182-11ec-992e-6fb98c417f58",
+    "display_name": "ubash",
+    "description": "Run a bash script in /proc ",
+    "icon_filename": "bash.png",
+    "type_flags": "CATEGORY_WORKER"
+}

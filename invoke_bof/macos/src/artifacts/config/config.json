@@ -1,0 +1,8 @@
+{
+    "name": "scythe.invoke_bof",
+    "id": "495c51c0-c026-11ec-810c-33e4a10903dc",
+    "display_name": "invoke_bof",
+    "description": "Run Beacon Object Files on a given target. Image credit ",
+    "icon_filename": "icons8-futurama-bender-77.png",
+    "type_flags": "CATEGORY_WORKER"
+}

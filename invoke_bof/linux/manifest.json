@@ -1,0 +1,1 @@
+{"operating_system":"linux","runtime":"native","cpu_architecture":["x86","x64"],"module_type":"capability","company_name":"scythe","module_name":"invoke_bof","uuid":"53e8f8f0-c026-11ec-810c-33e4a10903dc","module_display_name":"invoke_bof","module_description":"Run Beacon Object Files on a given target. Image credit ","module_icon_filename":"icons8-futurama-bender-77.png"}

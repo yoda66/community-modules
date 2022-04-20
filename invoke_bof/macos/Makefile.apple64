@@ -1,0 +1,2 @@
+run.bundle:
+	$(CC) src/invoke_bof.c -o bundle -bundle -o bin/macos/x64/invoke_bof.bundle

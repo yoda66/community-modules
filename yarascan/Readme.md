@@ -6,6 +6,10 @@ The Yarascan module allows users to scan files and directories with Yara rules.
 
 Author: SCYTHE
 
+## Installation
+
+Please reference our module [installation guide](https://github.com/scythe-io/community-modules/wiki) on the wiki.
+
 ##  Manual
 
 ```

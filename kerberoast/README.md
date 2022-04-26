@@ -1,4 +1,4 @@
-# Module Name
+# Kerberoast
 
 This modules identifies executes the Kerberoast attack based on the work of Tim Medin. It identifies SPNs mapped to user accounts and requests Kerberos tickets for the service associated with the SPN. This module does not perform cracking as that is exteremly resource intensive.
 
